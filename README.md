@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anooshaqaisar
-- 👀 I’m interested in applied mathematics .
-- 🌱 I’m currently learning Machine learning and programming languages. 
-- 💞️ I’m looking for a phd mathematics and physics. 
+- 👀 I’m interested in data science  .
+- 🌱 I have one year hand on experience in data science . 
+- 💞️ I’m looking for a phd in data science . 
 - 📱my LinkedIn profile link is https://www.linkedin.com/in/anoosha-qaisar-696b001b6
 
 
